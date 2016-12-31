@@ -1,0 +1,24 @@
+{
+  "name": "route_prac",
+  "version": "1.0.0",
+  "description": "App to practice express routing and ejs ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARWL2016/route_prac.git"
+  },
+  "author": "Alistair Willis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARWL2016/route_prac/issues"
+  },
+  "homepage": "https://github.com/ARWL2016/route_prac#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
